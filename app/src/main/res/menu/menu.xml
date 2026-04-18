@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/photosItem"
+        android:title="Photos"
+        android:icon="@drawable/icon_photos"/>
+
+    <item android:id="@+id/collectionItem"
+        android:title="Collection"
+        android:icon="@drawable/icon_collection"/>
+
+    <item android:id="@+id/createItem"
+        android:title="Create"
+        android:icon="@drawable/icon_create"/>
+
+</menu>
